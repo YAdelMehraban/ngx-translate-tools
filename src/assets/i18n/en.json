@@ -1,0 +1,3 @@
+{
+    "CATS": "There {Count, plural, =0{are no {category} cats} one{is one {category} cat} other{are # {category} cats}}"
+}
